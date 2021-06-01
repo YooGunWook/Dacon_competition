@@ -28,4 +28,4 @@
 * 사용한 모델: LightGBM, XGboost, Catboost 등 boosting 계열
 * 사용한 데이터: 
 	* 한국수력원자력(주)에서 제공받은 원자력 발전소 모사 데이터 (train, test 동일)
-* 최종 순위: 12위 	
+* 최종 순위: 13위 	
